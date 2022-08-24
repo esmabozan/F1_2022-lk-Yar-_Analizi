@@ -9,6 +9,8 @@ Bu çalışmamda, Temmuz ayında katılma fırsatı bulduğum Global AI Hub tara
 Kullandığım veri setleri: 
 https://github.com/toUpperCase78/formula1-datasets
 •	formula1_2022season_raceResults.csv
+
 •	formula1_2022season_sprintRaceResults.csv
+
 •	formula1_2022season_qualifyingResults.csv
 
